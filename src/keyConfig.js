@@ -83,12 +83,12 @@ const keys = [
   },
   {
     innerHtml: <img src={equalIcon} alt="equal icon" />,
-    boxStyle: "button large-box bottom-rounded--right",
+    boxStyle: "button large-box",
     value: "=",
   },
   {
     innerHtml: "%",
-    boxStyle: "button middle-box bottom-rounded--left",
+    boxStyle: "button middle-box",
     value: "%",
   },
   {
