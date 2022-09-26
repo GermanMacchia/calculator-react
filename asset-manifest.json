@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/calculator-react/static/css/main.45b530d8.css",
-    "main.js": "/calculator-react/static/js/main.5ed2cfca.js",
+    "main.css": "/calculator-react/static/css/main.46225dab.css",
+    "main.js": "/calculator-react/static/js/main.7dd22dca.js",
     "index.html": "/calculator-react/index.html",
     "static/media/plus_icon.svg": "/calculator-react/static/media/plus_icon.d73d1b9781dbfcf7cd2b0f7951cecb10.svg",
     "static/media/minus_icon.svg": "/calculator-react/static/media/minus_icon.d36ecc1bcf06267c0d42c5df6f2cc304.svg",
@@ -9,11 +9,11 @@
     "static/media/delete_icon.svg": "/calculator-react/static/media/delete_icon.1242561e4608a15c11e108dabab410e3.svg",
     "static/media/divide_icon.svg": "/calculator-react/static/media/divide_icon.1665f7f8c281a4662666c689cd233437.svg",
     "static/media/equal_icon.svg": "/calculator-react/static/media/equal_icon.0d9544770aea9c0646874df6b74e367c.svg",
-    "main.45b530d8.css.map": "/calculator-react/static/css/main.45b530d8.css.map",
-    "main.5ed2cfca.js.map": "/calculator-react/static/js/main.5ed2cfca.js.map"
+    "main.46225dab.css.map": "/calculator-react/static/css/main.46225dab.css.map",
+    "main.7dd22dca.js.map": "/calculator-react/static/js/main.7dd22dca.js.map"
   },
   "entrypoints": [
-    "static/css/main.45b530d8.css",
-    "static/js/main.5ed2cfca.js"
+    "static/css/main.46225dab.css",
+    "static/js/main.7dd22dca.js"
   ]
 }
